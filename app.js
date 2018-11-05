@@ -14,6 +14,6 @@ setInterval(
         console.log(
             noljam + jam + ':'+nolmenit+menit+':'+noldetik+detik
         )
-    }, 1000
+    }, 2000
 )
 
